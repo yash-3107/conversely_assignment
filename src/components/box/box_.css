@@ -1,0 +1,6 @@
+.box{
+    height:100px;
+    width:100px;
+   
+    transition: 1s ease-in-out;
+}
